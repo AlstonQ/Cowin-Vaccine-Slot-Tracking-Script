@@ -7,4 +7,5 @@ Planned Phases
 2. Create a GUI for the same.
 
 Resources: https://apisetu.gov.in/public/api/cowin#/
+
 Libraries: https://pypi.org/project/cowin/
